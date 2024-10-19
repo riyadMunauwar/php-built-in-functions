@@ -8,7 +8,6 @@ Below are example Markdown files for:
 4. **Error Handling Functions**
 5. **Session Management Functions**
 
----
 
 ## 1. **PHP Math Functions Documentation (`math_functions.md`)**
 
