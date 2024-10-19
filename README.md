@@ -1,5 +1,3 @@
----
-
 # 📄 PHP Built-in Function Documentation Templates  
 
 Below are example Markdown files for:
