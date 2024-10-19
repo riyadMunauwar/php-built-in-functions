@@ -1,5 +1,3 @@
-Here is a structured approach to writing **documentation for other PHP built-in function categories**. Each section will follow a format similar to the array and string documentation. Below are separate **Markdown docs for additional PHP built-in function categories**.
-
 ---
 
 # 📄 PHP Built-in Function Documentation Templates  
